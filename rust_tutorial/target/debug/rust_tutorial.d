@@ -1,0 +1,1 @@
+C:\Users\quint\Documents\GitHub\Rust-Tutorial\rust_tutorial\target\debug\rust_tutorial.exe: C:\Users\quint\Documents\GitHub\Rust-Tutorial\rust_tutorial\src\main.rs C:\Users\quint\Documents\GitHub\Rust-Tutorial\rust_tutorial\src\restaurant\mod.rs
